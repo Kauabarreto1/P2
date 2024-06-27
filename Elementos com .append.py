@@ -4,5 +4,4 @@ while True:
     if elemento.lower() == 'parar':
         break
     lista.append(elemento)
-print("Lista completa:")
-print(lista)
+print(f"Lista completa: {lista}")
